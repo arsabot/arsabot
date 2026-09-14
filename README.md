@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Header Banner -->
+  <!-- Official Logo & Header Banner -->
   <a href="https://arsabot.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,35&height=220&section=header&text=Ariel%20Saavedra%20%7C%20Fullstack%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20scalable%20web%20apps%2C%20SaaS%20platforms%20%26%20AI-driven%20tools&descAlignY=58&descSize=16&descAlign=50" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,35&height=220&section=header&text=ARSA.DEV%20%7C%20Ariel%20Saavedra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Professional%20Web%20Development%20%E2%80%A2%20Fullstack%20Software%20Engineer&descAlignY=58&descSize=16&descAlign=50" width="100%" alt="ARSA.DEV Header Banner" />
   </a>
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Fullstack+Software+Engineer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%E2%9C%A8;Python%2C+Django+%26+Supabase+Architect+%F0%9F%94%A7;Building+Invitely%2C+Parkia+%26+AI-Powered+Apps+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=ARSA.DEV+%E2%80%94+Professional+Web+Development+%E2%9C%A8;Fullstack+Software+Engineer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%F0%9F%92%BB;Python%2C+Django+%26+Supabase+Architect+%F0%9F%94%A7;Building+Invitely%2C+Parkia+%26+AI-Powered+Apps+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 
   <p align="center">
