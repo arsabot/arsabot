@@ -94,27 +94,32 @@ Soy **Ariel Saavedra**, Desarrollador Fullstack apasionado por crear aplicacione
 
 <div align="center">
 
-  <table border="0">
+  <table border="0" cellpadding="4" cellspacing="4">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=arsabot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090714&title_color=8B5CF6&text_color=A1A1AA&icon_color=06B6D4" alt="GitHub Stats" width="100%" />
+        <a href="https://github.com/arsabot">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arsabot&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
+        </a>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsabot&theme=tokyonight&hide_border=true&background=090714&ring=8B5CF6&fire=D946EF&currStreakLabel=06B6D4" alt="GitHub Streak" width="100%" />
+        <a href="https://github.com/arsabot">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsabot&theme=tokyonight&hide_border=true&background=090714&ring=8B5CF6&fire=D946EF&currStreakLabel=06B6D4" alt="GitHub Streak Stats" width="100%" />
+        </a>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsabot&layout=compact&theme=tokyonight&hide_border=true&bg_color=090714&title_color=8B5CF6&text_color=A1A1AA" alt="Top Languages" width="80%" />
+      <td width="50%" align="center">
+        <a href="https://github.com/arsabot">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arsabot&theme=tokyonight" alt="Most Committed Languages" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/arsabot">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arsabot&theme=tokyonight" alt="GitHub Overall Stats" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
-
-  <!-- Activity Graph -->
-  <br/>
-  <a href="https://github.com/arsabot">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsabot&theme=tokyo-night&bg_color=090714&color=8B5CF6&line=8B5CF6&point=8B5CF6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
 
 </div>
 
