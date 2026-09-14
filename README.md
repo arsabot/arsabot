@@ -1,0 +1,148 @@
+<div align="center">
+
+  <!-- Header Banner -->
+  <a href="https://arsabot.github.io">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,35&height=220&section=header&text=Ariel%20Saavedra%20%7C%20Fullstack%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20scalable%20web%20apps%2C%20SaaS%20platforms%20%26%20AI-driven%20tools&descAlignY=58&descSize=16&descAlign=50" width="100%" alt="Header Banner" />
+  </a>
+
+  <!-- Typing SVG Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Fullstack+Software+Engineer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%E2%9C%A8;Python%2C+Django+%26+Supabase+Architect+%F0%9F%94%A7;Building+Invitely%2C+Parkia+%26+AI-Powered+Apps+%F0%9F%8C%90" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://wa.me/5491135094661?text=Hola%20Ariel,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="https://linkedin.com/in/arsabot"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:rodrigonasaavedra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://arsabot.github.io"><img src="https://img.shields.io/badge/Live_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/arsabot"><img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 Sobre Mí (About Me)
+
+Soy **Ariel Saavedra**, Desarrollador Fullstack apasionado por crear aplicaciones web robustas, arquitecturas escalables, plataformas SaaS interactivas (*Invitely*, *PARKIA*) y herramientas de Inteligencia Artificial con diseño premium. Combino ingeniería de software sólida (APIs RESTful, modelado relacional, autenticación JWT, microservicios) con interfaces de usuario modernas, fluidas y accesibles.
+
+- 🔭 **Actualmente desarrollando:** Plataformas SaaS de invitaciones interactivas (*Invitely*), movilidad inteligente (*PARKIA*) y herramientas de síntesis y OCR con IA.
+- 🌱 **En constante profundización:** Integraciones de modelos de Inteligencia Artificial (LLMs / OCR / TTS), Cloud Computing (AWS/Docker) y arquitecturas serverless en Next.js.
+- 💡 **Filosofía de desarrollo:** Código limpio, tipado estricto con TypeScript, arquitectura desacoplada y UI/UX sin fricción.
+- 💬 **Hablemos de:** TypeScript, Next.js 15, React 19, Python, Django, Supabase, PostgreSQL, APIs y herramientas de IA.
+- 📱 **Contacto directo:** [WhatsApp (+54 9 11 3509-4661)](https://wa.me/5491135094661) o email a [rodrigonasaavedra@gmail.com](mailto:rodrigonasaavedra@gmail.com).
+
+---
+
+### 🛠️ Stack Tecnológico (Tech Stack)
+
+<div align="center">
+
+#### 🌐 Frontend & UI/UX
+<p>
+  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
+#### ⚙️ Backend, APIs & Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django%205-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+#### ☁️ DevOps, Cloud & Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+</div>
+
+---
+
+### 🚀 Proyectos Destacados (Featured Projects)
+
+| Proyecto | Descripción | Stack Tecnológico | Enlaces |
+| :--- | :--- | :--- | :---: |
+| 💌 **Invitely** | **Plataforma de Invitaciones Digitales Interactivas:** SaaS para creación y gestión de invitaciones interactivas con RSVP en tiempo real, listas de invitados y personalización visual. | `Next.js 15` `TypeScript` `Supabase` `Tailwind CSS` `PostgreSQL` | [📁 Repositorio](https://github.com/arsabot/invitely) • [🌐 Demo](https://arsabot.github.io/#projects) |
+| 🚗 **PARKIA** | **Plataforma Inteligente de Reserva de Estacionamientos:** Búsqueda en mapa en tiempo real, confirmación con código único, motor de reservas sin solapamiento y panel administrativo con analítica. | `React 19` `TypeScript` `Django 5` `DRF` `Leaflet` `Recharts` `Tailwind CSS` | [📁 Repositorio](https://github.com/arsabot/parkia) • [🌐 Demo](https://arsabot.github.io/#projects) |
+| 🤖 **Lector de Textos con IA** | **Herramienta Inteligente de Accesibilidad & OCR:** Síntesis neuronal de voz (TTS), extracción óptica de caracteres desde imágenes/PDFs y resumen con IA. | `React` `Python` `FastAPI` `OpenAI / Gemini API` `Web Speech API` | [📁 Repositorio](https://github.com/arsabot) • [🌐 Demo](https://arsabot.github.io/#projects) |
+| 🎓 **Forge Champions** | **Portal Educativo & Mentorías Corporativas:** Plataforma para la Fundación Forge que conecta ejecutivos con jóvenes talentos para masterclasses en vivo y seguimiento de sesiones. | `Next.js 15` `React 19` `Supabase` `PostgreSQL` `Tailwind CSS` `AWS EC2` | [📁 Repositorio](https://github.com/arsabot/forge-champions) • [🌐 Demo](https://arsabot.github.io/#projects) |
+| 📊 **Informar App** | **Dashboard de Analítica & Ingesta de Datos en Tiempo Real:** Interfaz reactiva con visualización de métricas de alto rendimiento y pipelines de procesamiento. | `React` `TypeScript` `Vite` `Tailwind CSS` `Oxlint` | [📁 Repositorio](https://github.com/arsabot/informar-app) • [🌐 Demo](https://arsabot.github.io/#projects) |
+
+---
+
+### 📊 Estadísticas de GitHub (GitHub Stats)
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=arsabot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090714&title_color=8B5CF6&text_color=A1A1AA&icon_color=06B6D4" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsabot&theme=tokyonight&hide_border=true&background=090714&ring=8B5CF6&fire=D946EF&currStreakLabel=06B6D4" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsabot&layout=compact&theme=tokyonight&hide_border=true&bg_color=090714&title_color=8B5CF6&text_color=A1A1AA" alt="Top Languages" width="80%" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Activity Graph -->
+  <br/>
+  <a href="https://github.com/arsabot">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arsabot&theme=tokyo-night&bg_color=090714&color=8B5CF6&line=8B5CF6&point=8B5CF6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
+
+</div>
+
+---
+
+### 📬 Conectemos Directamente (Get in Touch)
+
+<div align="center">
+
+  <p>¿Tienes un proyecto SaaS en mente, una vacante laboral o deseas colaborar en desarrollo de software?</p>
+
+  <a href="https://wa.me/5491135094661?text=Hola%20Ariel,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar">
+    <img src="https://img.shields.io/badge/WhatsApp_Directo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="mailto:rodrigonasaavedra@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/arsabot">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://arsabot.github.io">
+    <img src="https://img.shields.io/badge/Visitar_Portafolio_Web-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Portfolio" />
+  </a>
+
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,35&height=100&section=footer" width="100%" alt="Footer" />
+
+</div>
