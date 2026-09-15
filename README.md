@@ -7,7 +7,7 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=ARSA.DEV+%E2%80%94+Professional+Web+Development+%E2%9C%A8;Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%F0%9F%92%BB;Python%2C+Django+%26+Supabase+Architect+%F0%9F%94%A7;Building+Invitely%2C+Parkia+%26+AI-Powered+Apps+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Hola%2C+soy+Rodrigo+Saavedra+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%F0%9F%92%BB;Python%2C+Django+%26+Supabase+Architect+%F0%9F%94%A7;Building+Invitely%2C+Parkia+%26+AI-Powered+Apps+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mí (About Me)
+### 👨‍💻 Hola, soy Rodrigo Saavedra 👋
 
 Soy **Rodrigo Saavedra**, Desarrollador Web Full Stack apasionado por crear aplicaciones web robustas, arquitecturas escalables, plataformas SaaS interactivas (*Invitely*, *PARKIA*) y herramientas de Inteligencia Artificial con diseño premium. Combino buenas prácticas de desarrollo (APIs RESTful, modelado relacional, autenticación JWT, microservicios) con interfaces de usuario modernas, fluidas y accesibles.
 
