@@ -2,16 +2,16 @@
 
   <!-- Official Logo & Header Banner -->
   <a href="https://arsabot.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,35&height=220&section=header&text=ARSA.DEV%20%7C%20Ariel%20Saavedra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Professional%20Web%20Development%20%E2%80%A2%20Fullstack%20Software%20Engineer&descAlignY=58&descSize=16&descAlign=50" width="100%" alt="ARSA.DEV Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,35&height=220&section=header&text=ARSA.DEV%20%7C%20Rodrigo%20Saavedra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Professional%20Web%20Development%20%E2%80%A2%20Full%20Stack%20Web%20Developer&descAlignY=58&descSize=16&descAlign=50" width="100%" alt="ARSA.DEV Header Banner" />
   </a>
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=ARSA.DEV+%E2%80%94+Professional+Web+Development+%E2%9C%A8;Fullstack+Software+Engineer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%F0%9F%92%BB;Python%2C+Django+%26+Supabase+Architect+%F0%9F%94%A7;Building+Invitely%2C+Parkia+%26+AI-Powered+Apps+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=ARSA.DEV+%E2%80%94+Professional+Web+Development+%E2%9C%A8;Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%F0%9F%92%BB;Python%2C+Django+%26+Supabase+Architect+%F0%9F%94%A7;Building+Invitely%2C+Parkia+%26+AI-Powered+Apps+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://wa.me/5491135094661?text=Hola%20Ariel,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="https://wa.me/5491135094661?text=Hola%20Rodrigo,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
     <a href="https://www.linkedin.com/in/rodrigo-saavedra-bb2629152/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:rodrigonasaavedra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://arsabot.github.io"><img src="https://img.shields.io/badge/Live_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Sobre Mí (About Me)
 
-Soy **Ariel Saavedra**, Desarrollador Fullstack apasionado por crear aplicaciones web robustas, arquitecturas escalables, plataformas SaaS interactivas (*Invitely*, *PARKIA*) y herramientas de Inteligencia Artificial con diseño premium. Combino ingeniería de software sólida (APIs RESTful, modelado relacional, autenticación JWT, microservicios) con interfaces de usuario modernas, fluidas y accesibles.
+Soy **Rodrigo Saavedra**, Desarrollador Web Full Stack apasionado por crear aplicaciones web robustas, arquitecturas escalables, plataformas SaaS interactivas (*Invitely*, *PARKIA*) y herramientas de Inteligencia Artificial con diseño premium. Combino buenas prácticas de desarrollo (APIs RESTful, modelado relacional, autenticación JWT, microservicios) con interfaces de usuario modernas, fluidas y accesibles.
 
 - 🔭 **Actualmente desarrollando:** Plataformas SaaS de invitaciones interactivas (*Invitely*), movilidad inteligente (*PARKIA*) y herramientas de síntesis y OCR con IA.
 - 🌱 **En constante profundización:** Integraciones de modelos de Inteligencia Artificial (LLMs / OCR / TTS), Cloud Computing (AWS/Docker) y arquitecturas serverless en Next.js.
@@ -133,7 +133,7 @@ Soy **Ariel Saavedra**, Desarrollador Fullstack apasionado por crear aplicacione
 
   <p>¿Tienes un proyecto SaaS en mente, una vacante laboral o deseas colaborar en desarrollo de software?</p>
 
-  <a href="https://wa.me/5491135094661?text=Hola%20Ariel,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar">
+  <a href="https://wa.me/5491135094661?text=Hola%20Rodrigo,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20conversar">
     <img src="https://img.shields.io/badge/WhatsApp_Directo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
