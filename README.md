@@ -7,7 +7,7 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Hola%2C+soy+Rodrigo+Saavedra+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%F0%9F%92%BB;Python%2C+Django+%26+Supabase+Architect+%F0%9F%94%A7;Building+Invitely%2C+Parkia+%26+AI-Powered+Apps+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Hola%2C+soy+Rodrigo+Saavedra+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%F0%9F%92%BB;Python%2C+Django+%26+Supabase+Architect+%F0%9F%94%A7;Building+Invitely%2C+Merlo+Participa+%26+Parkia+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -24,9 +24,9 @@
 
 ### 👨‍💻 Hola, soy Rodrigo Saavedra 👋
 
-Soy **Rodrigo Saavedra**, Desarrollador Web Full Stack apasionado por crear aplicaciones web robustas, arquitecturas escalables, plataformas SaaS interactivas (*Invitely*, *PARKIA*) y herramientas de Inteligencia Artificial con diseño premium. Combino buenas prácticas de desarrollo (APIs RESTful, modelado relacional, autenticación JWT, microservicios) con interfaces de usuario modernas, fluidas y accesibles.
+Soy **Rodrigo Saavedra**, Desarrollador Web Full Stack apasionado por crear aplicaciones web robustas, arquitecturas escalables, plataformas SaaS interactivas (*Invitely*, *Merlo Participa*, *PARKIA*) y herramientas de Inteligencia Artificial con diseño premium. Combino buenas prácticas de desarrollo (APIs RESTful, modelado relacional, autenticación JWT, microservicios) con interfaces de usuario modernas, fluidas y accesibles.
 
-- 🔭 **Actualmente desarrollando:** Plataformas SaaS de invitaciones interactivas (*Invitely*), movilidad inteligente (*PARKIA*) y herramientas de síntesis y OCR con IA.
+- 🔭 **Actualmente desarrollando:** Plataformas SaaS de invitaciones interactivas (*Invitely*), portal vecinal cívico (*Merlo Participa*), movilidad inteligente (*PARKIA*) y herramientas de síntesis y OCR con IA.
 - 🌱 **En constante profundización:** Integraciones de modelos de Inteligencia Artificial (LLMs / OCR / TTS), Cloud Computing (AWS/Docker) y arquitecturas serverless en Next.js.
 - 💡 **Filosofía de desarrollo:** Código limpio, tipado estricto con TypeScript, arquitectura desacoplada y UI/UX sin fricción.
 - 💬 **Hablemos de:** TypeScript, Next.js 15, React 19, Python, Django, Supabase, PostgreSQL, APIs y herramientas de IA.
@@ -82,6 +82,7 @@ Soy **Rodrigo Saavedra**, Desarrollador Web Full Stack apasionado por crear apli
 
 | Proyecto | Descripción | Stack Tecnológico | Enlaces |
 | :--- | :--- | :--- | :---: |
+| 🏙️ **Merlo Participa** | **Portal Vecinal & Gestión Ciudadana:** Plataforma cívica para reporte y seguimiento de problemáticas barriales, reclamos urbanos con mapa interactivo Leaflet, código de tracking y panel de moderación. | `Next.js 16` `React 19` `TypeScript` `Supabase` `Leaflet` `Tailwind CSS v4` `Zod` | [📁 Repositorio](https://github.com/arsabot/merlo-participa) • [🌐 Demo en Vivo](https://merlo-participa.vercel.app) |
 | 💌 **Invitely** | **Plataforma de Invitaciones Digitales Interactivas:** SaaS para creación y gestión de invitaciones interactivas con RSVP en tiempo real, listas de invitados y personalización visual. | `Next.js 15` `TypeScript` `Supabase` `Tailwind CSS` `PostgreSQL` | [📁 Repositorio](https://github.com/arsabot/invitely) • [🌐 Demo en Vivo](https://invitely-delta-dun.vercel.app) |
 | 🏛️ **InformAR** | **Plataforma Cívica de Finanzas Municipales:** Dashboard y pipeline ETL con protección anti-SSRF para visualización y análisis de presupuestos y contrataciones en municipios argentinos. | `React 19` `TypeScript` `Vite` `Tailwind CSS` `Recharts` `Zod` | [📁 Repositorio](https://github.com/arsabot/informar-app) • [🌐 Demo](https://arsabot.github.io/#projects) |
 | 🚗 **PARKIA** | **Plataforma Inteligente de Reserva de Estacionamientos:** Búsqueda en mapa en tiempo real, confirmación con código único, motor de reservas sin solapamiento y panel administrativo con analítica. | `React 19` `TypeScript` `Django 5` `DRF` `Leaflet` `Recharts` `Tailwind CSS` | [📁 Repositorio](https://github.com/arsabot/parkia-pescar) • [🌐 Demo](https://arsabot.github.io/#projects) |
