@@ -7,7 +7,7 @@
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Hola%2C+soy+Rodrigo+Saavedra+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%F0%9F%92%BB;Python%2C+FastAPI+%26+Gemini+Live+AI+%F0%9F%8E%99%EF%B8%8F;Building+Nerdearla+Live%2C+Invitely+%26+Merlo+Participa+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Hola%2C+soy+Rodrigo+Saavedra+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+15%2C+React+19+%26+TypeScript+Specialist+%F0%9F%92%BB;Python%2C+FastAPI+%26+Gemini+Live+AI+%F0%9F%8E%99%EF%B8%8F;Building+Transcribely%2C+Invitely+%26+Merlo+Participa+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -82,7 +82,7 @@ Soy **Rodrigo Saavedra**, Desarrollador Web Full Stack apasionado por crear apli
 
 | Proyecto | Descripción | Stack Tecnológico | Enlaces |
 | :--- | :--- | :--- | :---: |
-| 🎙️ **Nerdearla Live** <br><sub>*(Nerdearla Vibeathon 2026)*</sub> | **Accesibilidad y Traducción Simultánea en Tiempo Real:** Plataforma para conferencias masivas con transcripción WebGPU local (Whisper & Nemotron), traducción bidireccional instantánea vía Gemini Live API (< 700ms), speech-biasing fonético y aislamiento multi-sala. | `Python 3.12` `FastAPI` `Gemini Live` `WebGPU` `WebSockets` `Docker` `Redis` | [📁 Repositorio](https://github.com/arsabot/nerdearla-live-transcribe) • [🌐 Demo](https://arsabot.github.io/#projects) |
+| 🎙️ **Transcribely** <br><sub>*(Nerdearla Vibeathon 2026)*</sub> | **Accesibilidad y Traducción Simultánea en Tiempo Real:** Plataforma para conferencias masivas con transcripción WebGPU local (Whisper & Nemotron), traducción bidireccional instantánea vía Gemini Live API (< 700ms), speech-biasing fonético y aislamiento multi-sala. | `Python 3.12` `FastAPI` `Gemini Live` `WebGPU` `WebSockets` `Docker` `Redis` | [📁 Repositorio](https://github.com/arsabot/nerdearla-live-transcribe) • [🌐 Demo](https://arsabot.github.io/#projects) |
 | 🏙️ **Merlo Participa** | **Portal Vecinal & Gestión Ciudadana:** Plataforma cívica para reporte y seguimiento de problemáticas barriales, reclamos urbanos con mapa interactivo Leaflet, código de tracking y panel de moderación. | `Next.js 16` `React 19` `TypeScript` `Supabase` `Leaflet` `Tailwind CSS v4` `Zod` | [📁 Repositorio](https://github.com/arsabot/merlo-participa) • [🌐 Demo en Vivo](https://merlo-participa.vercel.app) |
 | 💌 **Invitely** | **Plataforma de Invitaciones Digitales Interactivas:** SaaS para creación y gestión de invitaciones interactivas con RSVP en tiempo real, listas de invitados y personalización visual. | `Next.js 15` `TypeScript` `Supabase` `Tailwind CSS` `PostgreSQL` | [📁 Repositorio](https://github.com/arsabot/invitely) • [🌐 Demo en Vivo](https://invitely-delta-dun.vercel.app) |
 | 🏛️ **InformAR** | **Plataforma Cívica de Finanzas Municipales:** Dashboard y pipeline ETL con protección anti-SSRF para visualización y análisis de presupuestos y contrataciones en municipios argentinos. | `React 19` `TypeScript` `Vite` `Tailwind CSS` `Recharts` `Zod` | [📁 Repositorio](https://github.com/arsabot/informar-app) • [🌐 Demo](https://arsabot.github.io/#projects) |
