@@ -30,7 +30,6 @@ Soy **Rodrigo Saavedra**, Desarrollador Web Full Stack apasionado por crear apli
 - 🌱 **En constante profundización:** Integraciones de modelos de Inteligencia Artificial (LLMs / OCR / TTS), Cloud Computing (AWS/Docker) y arquitecturas serverless en Next.js.
 - 💡 **Filosofía de desarrollo:** Código limpio, tipado estricto con TypeScript, arquitectura desacoplada y UI/UX sin fricción.
 - 💬 **Hablemos de:** TypeScript, Next.js 15, React 19, Python, Django, Supabase, PostgreSQL, APIs y herramientas de IA.
-- 📱 **Contacto directo:** [WhatsApp (+54 9 11 3509-4661)](https://wa.me/5491135094661) o email a [rodrigonasaavedra@gmail.com](mailto:rodrigonasaavedra@gmail.com).
 
 ---
 
